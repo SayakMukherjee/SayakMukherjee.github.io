@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/_sayak_m_
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/SayakMukherjee
   - icon: brands/linkedin
@@ -57,14 +55,6 @@ education:
     summary: |
       Graduated with cum laude.
 
-      Courses included:
-      - Machine Learning
-      - Deep Learning
-      - Computer Vision
-      - Conversational Agents
-      - Socio-Cognitive Engineering
-      - Distributed Machine Learning
-
       Thesis: Model Agnostic Peer-to-peer Learning
     button:
       text: 'Read Paper'
@@ -75,11 +65,6 @@ education:
     date_end: 2018-07-31
     summary: |
       GPA: 9.01/10.0
-      
-      Courses included:
-      - Soft Computing
-      - Theory of Automata
-      - Data Structures and Algorithms
 
       Thesis: Human Action Recognition Using Convolution Neural Networks
 work:
